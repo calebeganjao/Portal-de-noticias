@@ -22,6 +22,10 @@ img {
   gap: 16px;
 }
 
+.gap32 {
+  gap: 32px;
+}
+
 .text-2xl {
   font: var(--h1);
 }
