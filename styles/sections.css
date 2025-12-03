@@ -101,6 +101,7 @@ section header {
 
 aside {
   grid-area: aside;
+  margin-bottom: 80px;
 }
 
 #more {
